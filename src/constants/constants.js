@@ -4,8 +4,8 @@ export const projects = [
     description: "I am currently working on a new Discord Application called \"Project Medusa\". This is a Bot based on useful features for a Discord Server, such as: Anti-nuke, Moderating commands and Music Player. Although this is still under development, but it will be published soon!",
       image: '/images/1.jpg',
       tags: ['MongoDB', 'Node', 'Discord Dev Applications'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://blankydev.github.io/project-medusa',
+    visit: 'https://blankydev.github.io/project-medusa',
     id: 0,
   },
 
@@ -21,10 +21,3 @@ export const projects = [
   
 ];
 
-export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
-];
